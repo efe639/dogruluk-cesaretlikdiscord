@@ -12,3 +12,17 @@ Buton kısmından oyunu oynamak isteyen üyeler rolü alabilir.
 ![image](https://user-images.githubusercontent.com/71249068/152863316-667f9729-a7b2-4a3e-b271-b0cc43fab983.png)
 
 Sunucumuza gelerek altyapıya sahip olabilirsiniz <3 https://discord.gg/qe74r8rx25
+
+
+{
+    "Token": "Botun Tokenin Girildiği Yer",
+    "owner": ["Buton komutunu kullanacak üye ID"],
+    "State": "BOTUN DURUMUNDA Kİ YAZI",
+    "BotVoice": "BOTUN GİRECEĞİ SES KANALI",
+    "Prefix": ["!",".","-"],
+    "DC": {
+        "Görevli": "ŞİŞE ÇEVİR KOMUTUNU KULLANACAK ÜYE",
+        "Role": "BUTONA TIKLAYINCA VERİLCEK ROL"
+    }
+
+}
