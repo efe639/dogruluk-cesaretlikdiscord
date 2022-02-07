@@ -14,7 +14,7 @@ Buton kısmından oyunu oynamak isteyen üyeler rolü alabilir.
 Sunucumuza gelerek altyapıya sahip olabilirsiniz <3 https://discord.gg/qe74r8rx25
 
 
-{
+
     "Token": "Botun Tokenin Girildiği Yer",
     "owner": ["Buton komutunu kullanacak üye ID"],
     "State": "BOTUN DURUMUNDA Kİ YAZI",
@@ -23,6 +23,5 @@ Sunucumuza gelerek altyapıya sahip olabilirsiniz <3 https://discord.gg/qe74r8rx
     "DC": {
         "Görevli": "ŞİŞE ÇEVİR KOMUTUNU KULLANACAK ÜYE",
         "Role": "BUTONA TIKLAYINCA VERİLCEK ROL"
-    }
+    
 
-}
